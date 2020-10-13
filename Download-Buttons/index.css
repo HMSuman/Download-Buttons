@@ -1,0 +1,50 @@
+.main {
+    color: blue;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.btn {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 5%;
+}
+
+
+/* Darker background on mouse-over */
+
+.btn:hover {
+    background-color: blue;
+    color: white;
+    transform: scale(1.1)
+}
+
+.btn1 {
+    background: blue;
+    color: yellow;
+}
+
+.opp:hover {
+    opacity: 0.5;
+}
+
+.btn1:hover {
+    opacity: 0.7;
+}
+
+.main2 {
+    color: purple;
+}
+
+.btn2 {
+    color: white;
+    background: purple;
+}
+
+.btn2:hover {
+    opacity: 0.6;
+}
